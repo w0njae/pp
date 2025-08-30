@@ -101,13 +101,6 @@ input[type="radio"] {
 	height: 15px;
 }
 
-textarea {
-	resize: none;
-	overflow-scrolling:touch;
-	-webkit-overflow-scrolling:touch;
-	-moz-overflow-scrolling:touch;
-	-o-overflow-scrolling:touch;
-}
 h1, h2, h3, h4, h5, h6 {
 	font-size: 100%;
 	font-weight: normal;
@@ -534,3 +527,4 @@ img {max-width:100%; vertical-align: top;}
     align-items: center;
     justify-content: space-between;
 }
+
