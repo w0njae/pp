@@ -137,9 +137,9 @@ header.open .m_btn i:nth-of-type(3){
 }
 
 @keyframes air-scroll{
-    0%{transform:translate(0px,0px);}
+    0%{transform:translate(0,0);}
     50%{transform:translate(0px,15px);}
-    1000%{transform:translate(0px,30px);}
+    100%{transform:translate(0,0);}
 }
 .scroll_btn i{
     animation: air-scroll 1.5s infinite ease;
@@ -638,3 +638,4 @@ footer{
     }
     
 }
+
